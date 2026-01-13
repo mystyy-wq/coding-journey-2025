@@ -1,0 +1,23 @@
+# Day 1 – Arrays: Basics & Traversal
+
+## Concepts Learned
+- What is an array
+- 0-based indexing
+- Array traversal
+- Finding maximum and minimum elements
+
+## Explanation
+An array stores elements of the same data type in contiguous memory locations.
+Elements are accessed using index values starting from 0.
+
+Traversal means visiting each element of the array one by one using a loop.
+
+## Problems Solved
+- Print array elements
+- Find maximum and minimum in an array
+- Find sum of array elements
+
+## Time & Space Complexity
+- Array access: O(1)
+- Array traversal: O(n)
+- Extra space used: O(1)
